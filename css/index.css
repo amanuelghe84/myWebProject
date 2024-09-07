@@ -5,3 +5,25 @@ head{
 body{
 
 }
+#myBox{
+    background-color: antiquewhite;
+    font-size: 100px;
+    border-style: solid;
+    border-color: chartreuse;
+    border-width: 10px;
+    margin-bottom: 20px;
+    text-align: center;
+    padding:0;
+    width: 350px ;
+}
+.hisBox{
+    background-color: rgba(218, 236, 21, 0.694);
+    font-size: 100px;
+    border-color: aqua;
+    border-style: solid;
+    text-align: center;
+    margin-bottom: 20px;
+    border-width: 10px;
+    width: 350px;
+
+}
